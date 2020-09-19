@@ -4,7 +4,7 @@ Dashgo Simulation in URDF &amp; Gazebo
 
 Update ver 7:
 ---
-https://github.com/hieudx97/dashgo_simulations.git
+https://github.com/AIR-Hust/dashgo_simulations
 - Đế Robot, 2 bánh xe Lidar
 - Tách riêng description và gazebo
 
